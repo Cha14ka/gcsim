@@ -52,6 +52,7 @@ const (
 	ICDTagWandererA4
 	ICDTagLyneyEndBoom
 	ICDTagLyneyEndBoomEnhanced
+	ICDTagNeuvilletteC6
 	ICDTagLength
 )
 
