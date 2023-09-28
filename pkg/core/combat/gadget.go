@@ -20,6 +20,7 @@ const (
 	GadgetTypYueguiJumping
 	GadgetTypBaronBunny
 	GadgetTypGrinMalkinHat
+	GadgetTypSourcewaterDroplet
 	GadgetTypTest
 	EndGadgetTyp
 )
